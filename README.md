@@ -1,1 +1,1 @@
-Simple codes for preliminary studies. One of the code uses bass nuclear potential, and the other code uses proximity nuclear potential. Decay half-life is calculated with traditional WKB method and traditional transfer matrix method. 
+Simple codes for preliminary studies. One of the code uses bass nuclear potential, and the other code uses proximity nuclear potential. Decay half-life is calculated with WKB method and traditional transfer matrix method. 
